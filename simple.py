@@ -1,2 +1,2 @@
 def hello:
-	return "helo"
+	return "adios"
